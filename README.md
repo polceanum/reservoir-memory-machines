@@ -53,6 +53,8 @@ This repository contains the following files.
 * `rmm/esn.py` : An implementation of [echo state networks (Jaeger and Haas, 2004)][ESN].
 * `rmm/hyperopt.py` : Utility functions for hyperparameter optimization.
 * `rmm/rmm.py` : An implementation of reservoir memory machines.
+* `runtime.ipynb` : The experimental code for the runtime experiments from the
+    paper.
 * `tests/crj_test.py` : Unit tests for `rmm/crj.py`.
 * `tests/esn_test.py` : Unit tests for `rmm/esn.py`.
 * `tests/hyperopt_test.py` : Unit tests for `rmm/hyperopt.py`.
